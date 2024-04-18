@@ -1,2 +1,1 @@
-# django_project
-Django website
+# Django website
